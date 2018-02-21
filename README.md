@@ -21,8 +21,7 @@ Pandas:           $ sudo pip install pandas
 numpy:            $ sudo pip install numpy
 scipy:            $ sudo pip install scipy
 scikit-learn:     $ sudo pip install -U scikit-learn
-matplotlib: 
-                  $ sudo apt-get install libfreetype6-dev libpng-dev
+matplotlib:       $ sudo apt-get install libfreetype6-dev libpng-dev
                   $ sudo pip install matplotlib 
 jupyter notebook: $ sudo apt-get -y install ipython ipython-notebook
                   $ sudo -H pip install jupyter
